@@ -2,7 +2,7 @@
 
 Este projeto é uma API baseada em **FastAPI** que utiliza **TensorFlow**, **Keras**, e **MediaPipe** para detectar e interpretar gestos das mãos. Esta aplicação está sendo desenvolvida para ser usada como backend de um aplicativo móvel, onde a captura de imagem da mão do usuário é realizada no lado cliente, e os pontos de referência (landmarks) ou gestos são enviados para a API para interpretação.
 
-A API retorna uma resposta baseada no gesto da mão detectado, como por exemplo, traduzir um gesto de libras para texto PT/BR.
+A API retorna uma resposta baseada no gesto da mão detectado para traduzir um gesto de libras para texto PT/BR.
 
 ## Funcionalidades
 
