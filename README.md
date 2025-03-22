@@ -14,4 +14,4 @@ A API retorna uma resposta baseada no gesto da mão detectado, como por exemplo,
 
 1. **Python 3.9+**
 2. **Dependências do Projeto**: As dependências estão listadas no arquivo `requirements.txt`. Você pode instalar todas as bibliotecas necessárias com o seguinte comando:  
-pip install -r requirements.txt
+        pip install -r requirements.txt
