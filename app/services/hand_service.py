@@ -13,7 +13,7 @@ try:
     # Verifique as assinaturas disponíveis no modelo
     print("Assinaturas disponíveis:", model.signatures.keys())
     
-    # Assinatura padrão que o modelo usa (ajuste se necessário)
+    
     infer = model.signatures["serving_default"]
 except Exception as e:
     print(f"Erro ao carregar o modelo: {e}")
